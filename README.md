@@ -2,8 +2,10 @@
 
 A framework of cellular automata with visualization for traffic flow problems. This framework has autonoumous vehicles included. You can make any change or invent new micro rules based on this framework. A more detailed description will be added here in a later stage when I get more free time.
 
-![example_gui.png](image/example_gui.png){:height="50%" width="50%"}
-<example_gui.png src="image/example_gui.png" width="300">
+![example_gui.png](image/example_gui.png)
+
+
+<img src="image/example_gui.png" width="300">
 
 Dependencies:
 - numpy
