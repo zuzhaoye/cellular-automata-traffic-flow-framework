@@ -3,7 +3,7 @@
 A framework of cellular automata with visualization for traffic flow problems. This framework has autonoumous vehicles included. You can make any change or invent new micro rules based on this framework. A more detailed description will be added here in a later stage when I get more free time.
 
 
-<img src="image/demo.gif" width="600">
+<img src="image/demo-6.gif" width="600">
 
 
 Dependencies:
